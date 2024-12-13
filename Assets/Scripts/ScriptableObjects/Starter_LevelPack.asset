@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a561455411e0a47499e604bfce8dc203, type: 3}
+  m_Name: Starter_LevelPack
+  m_EditorClassIdentifier: 
+  niveles:
+  - {fileID: 11400000, guid: 48afcc8f01b029c4cb1dafc1ec41c60c, type: 2}
+  themePrefabs: []
+  prefabBoss: {fileID: 0}
+  RandomBossLevels:
+  - {fileID: 11400000, guid: 344c5d3e627eeb947be7c61e60fe65ee, type: 2}

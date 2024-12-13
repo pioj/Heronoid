@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fb9982aff96f3149b32a57b6f3d4812, type: 3}
+  m_Name: Interaction_Soldado
+  m_EditorClassIdentifier: 
+  interacciones:
+  - idBrick: 0
+    interaction: 1
+  - idBrick: 1
+    interaction: 1
+  - idBrick: 2
+    interaction: 1
+  - idBrick: 3
+    interaction: 1
+  - idBrick: 4
+    interaction: 1
+  - idBrick: 5
+    interaction: 1
+  - idBrick: 6
+    interaction: 1
+  - idBrick: 7
+    interaction: 1
+  - idBrick: 8
+    interaction: 1
+  - idBrick: 9
+    interaction: 1
+  - idBrick: 13
+    interaction: 1
+  - idBrick: 15
+    interaction: 1
+  - idBrick: 19
+    interaction: 1
+  - idBrick: 20
+    interaction: 1
+  - idBrick: 21
+    interaction: 1
+  - idBrick: 22
+    interaction: 1
